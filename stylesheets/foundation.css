@@ -107,7 +107,7 @@
 	
 	header.container {background: #fff; padding: 20px;}
 	.logo { background: url("../images/logo.png") no-repeat; height:61px; width: 49px;  margin: 15px 0px 0 0; }
-    .logotype {  font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-size: 40px; color: #000; font-weight: bold; text-transform:uppercase; padding:30px 0 0 0;}
+    .logotype {  font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-size: 40px; color: #000; font-weight: bold; padding:30px 0 0 0;}
     .tagline {  font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; line-height: 1.3em; font-size: 30px; color: #000; padding: 0px 0 20px 0; margin: 0;}
 
 
@@ -186,14 +186,14 @@
 	
 	/* Fonts Lucida Grande */
      
-    .lg10 { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:10px;font-size:1.0rem;}
-    .lg12 { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:12px;font-size:1.2rem;}
-    .lg14 { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:14px;font-size:1.4rem;}
-	.lg16 { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:16px;font-size:1.6rem;font-weight: 400;}
-	.lg16Grey { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:16px;font-size:1.6rem; color:#859099;}
-	.lg20 { line-height:1.9; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:20px;font-size:2rem;}
-	.lg30 { line-height:1.5; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:30px;}
-	.lg40 { line-height:1.5; font-family: 'Lucida Grande', georgia, serif; color:#111; font-size:40px;font-size:4rem; font-weight: 400;}
+    .lg10 { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:10px;font-size:1.0rem;}
+    .lg12 { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:12px;font-size:1.2rem;}
+    .lg14 { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:14px;font-size:1.4rem;}
+	.lg16 { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:16px;font-size:1.6rem;font-weight: 400;}
+	.lg16Grey { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:16px;font-size:1.6rem; color:#859099;}
+	.lg20 { line-height:1.9; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:20px;font-size:2rem;}
+	.lg30 { line-height:1.5; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:30px;}
+	.lg40 { line-height:1.5; font-family: "Lucida Grande","Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif; color:#111; font-size:40px;font-size:4rem; font-weight: 400;}
 
 	/* Font Bold, Italic */
 
@@ -534,7 +534,7 @@
 	.black.navheader			{ background-color: #141414}
 
 	/* Colors ---------- */
-	.navlogo 		        { font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-size: 20px; color: #fff; font-weight: bold; text-transform:uppercase; padding:0px 0 0 20px; margin: 0; text-align: left; display:inline;}
+	.navlogo 		        { font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-size: 20px; color: #fff; font-weight: bold; padding:0px 0 0 20px; margin: 0; text-align: left; display:inline;}
 	.nav		        { font-family: "HelveticaNeue", Helvetica, Arial, sans-serif; font-size: 14px; color: #fff; font-weight: bold;  padding:0px 0 0 20px; margin: 0;  float: right; display:inline;}
     .navheader ul.nav-bar {
 		padding: 0;
